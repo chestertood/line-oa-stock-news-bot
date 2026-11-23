@@ -1,0 +1,4 @@
+anthropic>=1.15.0
+flask>=3.1
+python-dotenv>=1.0
+pillow>=11  # only for make_images.py
